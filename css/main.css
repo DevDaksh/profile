@@ -1,0 +1,25 @@
+.site-header{
+    background: cyan;
+    color: #1353a3;
+    height: 100vh;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+
+.header-text{
+    margin: 10px;
+}
+
+body{
+    margin: 0;
+}
+
+.header-image{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    box-shadow: #085f5f 2px 5px 5px;
+}
